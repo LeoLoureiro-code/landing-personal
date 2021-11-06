@@ -1,2 +1,1 @@
-# landing-personal
-A landing page about myself
+# Proyecto en Codealo - Landing Personal
